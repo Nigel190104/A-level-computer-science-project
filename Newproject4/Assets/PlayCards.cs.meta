@@ -1,0 +1,41 @@
+fileFormatVersion: 2
+guid: d867a58d117617742a6ad3e1d089dfb2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Canvas: {instanceID: 0}
+  - PlayerManager: {instanceID: 0}
+  - GameManager: {instanceID: 0}
+  - Normalcards0: {fileID: 6922330455177361298, guid: 85a6dd3574b13094c93b06d75a2019f1, type: 3}
+  - Normalcards1: {fileID: 6922330455177361298, guid: 78ad62c0db044234c868819c9c14f3e8, type: 3}
+  - Normalcards2: {fileID: 6922330455177361298, guid: 7b1c59f8176351f46a4dc1e68545acc7, type: 3}
+  - Normalcards3: {fileID: 6922330455177361298, guid: b16785b5ade742b4cae18d0a2de04f5f, type: 3}
+  - Normalcards4: {fileID: 6922330455177361298, guid: 4d0ddce1024f88d4ea48b7baedfe020d, type: 3}
+  - Normalcards5: {fileID: 6922330455177361298, guid: 254b44fb049f02542bb71a60c3e6ad03, type: 3}
+  - Normalcards6: {fileID: 6922330455177361298, guid: 9b711e698462d6849a1329e07c90d434, type: 3}
+  - Normalcards7: {fileID: 6922330455177361298, guid: 4c8390adfe808b04c86ac9b3880e12db, type: 3}
+  - Normalcards8: {fileID: 6922330455177361298, guid: e9b3fe2ad2e0e8a4abc0208fe7fac122, type: 3}
+  - Normalcards9: {fileID: 6922330455177361298, guid: 0003b5bee2d9f314b8479c254b59d10c, type: 3}
+  - Legendarycards0: {fileID: 7488094065035545362, guid: 7f206693f51384a4d8ae32e779493e2b, type: 3}
+  - Legendarycards1: {fileID: 7488094065035545362, guid: e538efaa9a2fd804493d05b1bac96185, type: 3}
+  - Legendarycards2: {fileID: 7488094065035545362, guid: 4038da14d6dec1948b407a82f6260359, type: 3}
+  - Legendarycards3: {fileID: 7488094065035545362, guid: 985dea3b308fbef42857b2034d053451, type: 3}
+  - Legendarycards4: {fileID: 7488094065035545362, guid: 7d120dd33acc96e4cb51f0655f5ae27a, type: 3}
+  - Legendarycards5: {fileID: 7488094065035545362, guid: e3eb7909695e9984883a6bb0aaea2d01, type: 3}
+  - Legendarycards6: {fileID: 7488094065035545362, guid: a528b3aec02e5af45a34bf68080edcc9, type: 3}
+  - Legendarycards7: {fileID: 7488094065035545362, guid: d1fb0f6b930d96e4fbed65e5f63b6ea0, type: 3}
+  - Legendarycards8: {fileID: 7488094065035545362, guid: 015b8d5beb71318468358ec2cbf935f5, type: 3}
+  - Legendarycards9: {fileID: 7488094065035545362, guid: 990c50e7496485f40a9bd56336f266bd, type: 3}
+  - StrengthStatText: {instanceID: 0}
+  - SpeedStatText: {instanceID: 0}
+  - SizeStatText: {instanceID: 0}
+  - MassStatText: {instanceID: 0}
+  - CardNameText: {instanceID: 0}
+  - CardImage: {instanceID: 0}
+  - thisCardImage: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
